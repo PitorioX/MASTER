@@ -975,4 +975,22 @@ BUSCAR ARCHIVO DE TABLA
     
     
     
+<div id="myModalFun" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">    
+        <div class="modal-dialog">
+                <div class="modal-content">  
+                        <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title" id="myModalLabel">EDICIÓN DE FUNCIONALIDAD</h4>
+                        </div>
+                        
+                        
+                        
+                        
+<tr style="text-align: left">
+        <td style="width: 2%"></td>                                           
+        <td colspan="6">                                           
+                <h3 class="page-header">Funcionalidad
+                        <asp:Label ID="lblf_name_complete" runat="server" Text="..."></asp:Label>
+                </h3>
+    
     
